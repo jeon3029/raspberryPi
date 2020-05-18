@@ -23,5 +23,5 @@
 4. output 로 출력
 
 ### 연결방법
-- GPIO 3,4,17,18 사용,  /  7segment와 sn74l 연결
+- GPIO 3,4,17,18 사용,  /  7segment와 sn74l 연결 / 3.3V, 5.5V사용
 ![7seg-pi](./pi_image.png)
