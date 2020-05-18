@@ -14,5 +14,8 @@ $ python3 mpu_led.py
 
 ### 연결방법
 - GPIO 2,3 이용해서 SCL, SDA 에 연결  /  3.3V , GND 사용
-![led-pi](./pi_image.png)
- <iframe width="1777" height="697" src="https://www.youtube.com/embed/glVEgN7Opqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![gyro-pi](./pi_image.png)
+ 
+### 시연 영상
+![gyro-pi-test](./pi_test.gif)<br>
+[gyro-test-youtube](https://www.youtube.com/watch?v=glVEgN7Opqo)

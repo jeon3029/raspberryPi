@@ -13,4 +13,4 @@ $ python3 mpu.py
 
 ### 연결방법
 - GPIO 2,3 이용해서 SCL, SDA 에 연결  /  3.3V , GND 사용
-![led-pi](./pi_image.png)
+![gyro-pi](./pi_image.png)
