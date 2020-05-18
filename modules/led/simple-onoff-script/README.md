@@ -5,7 +5,7 @@
 $ chmod u+x led-onoff.sh
 $ chmod u+x led-off.sh
 $ ./led-onoff.sh
-$ ./led-off.sh◊
+$ ./led-off.sh
 ```
 
 ### 동작 과정
