@@ -21,5 +21,5 @@
 3. output 로 출력(High or Low)
 
 ### 연결방법
-- GPIO 18 에 led 연결  /  3.3V & 220Ω 저항 사용
+- GPIO 17 에 led 연결  /  3.3V & 220Ω 저항 사용
 ![led-pi](./pi_image.png)
