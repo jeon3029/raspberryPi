@@ -11,7 +11,7 @@
 
 ### 동작 과정
 #### C
-1. wiringPiSerup
+1. wiringPiSetup
 2. PinMode 를 통해 output 설정
 3. pwm 을 통해 회전 주기 설정
 #### Python
