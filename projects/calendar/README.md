@@ -23,6 +23,6 @@ $ python3 calendar.py
 ![display-pi](./pi_image.png)
  
 ### 시연 
-![show-calendar-pi](./calendar.jpeg)
-![show-time-pi](./time.jpeg)
+<img src="./calendar.jpeg" height = "200" width="200"/><br>
+<img src="./time.jpeg" height = "200" width="200"/><br>
 ![show-pi](./pi_show.gif)
