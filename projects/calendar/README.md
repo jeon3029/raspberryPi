@@ -3,7 +3,7 @@
 - 디스플레이에 세로로 표시한다.
 ### 구동 기기
 - RasberryPi Zero
-- [128*64 OLED display](adafru.it/326)
+- [128*64 OLED display](https://adafru.it/326)
 
 ### 구동 방법
 ```sh
